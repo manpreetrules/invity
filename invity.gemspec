@@ -5,7 +5,7 @@ require 'invity/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "invity"
-  gem.version       = FbInvity::VERSION
+  gem.version       = Invity::VERSION
   gem.authors       = ["Pavittar Gill"]
   gem.email         = ["pavittar_gill@yahoo.ca"]
   gem.description   = %q{Send message to facebook inbox through your rails app.}
