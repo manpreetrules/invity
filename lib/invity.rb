@@ -1,4 +1,3 @@
-require "koala"
 require "xmpp4r_facebook"
 
 require "invity/version"
