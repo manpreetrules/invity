@@ -2,7 +2,7 @@ Invity
 ---
 #### Send messages to Facebook Inbox with your rails app.
 
-[-- demo --](invity.herokuapp.com)
+[-- demo --](http://invity.herokuapp.com) - [-- demo sourc e--('https://github.com/pavittar/invity_demo')
 
 Installation
 ---
@@ -75,4 +75,4 @@ Send Message
     deliver(:delayed)
     deliver(:all_delayed) 
 
-[-- demo --](invity.herokuapp.com) 
+[-- demo --](http://invity.herokuapp.com) - [-- demo source --]('https://github.com/pavittar/invity_demo')

@@ -29,7 +29,7 @@ module Invity
         @api ||=
         Faraday.new(:url => GraphUrl) do |f|
           f.request  :url_encoded
-          f.response :logger
+          # f.response :logger
           f.adapter  Faraday.default_adapter
         end
       end
